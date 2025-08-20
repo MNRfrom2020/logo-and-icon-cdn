@@ -1,2 +1,2 @@
 # logo-and-icon-cdn
-Here I'll host my importand logo and icon.
+Here I'll host my important logo and icon.
